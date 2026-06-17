@@ -3,7 +3,7 @@
 [![Spark Lab Academy](https://img.shields.io/badge/Spark%20Lab-Academy-orange?style=for-the-badge&logo=education)](https://academy.sparklabdz.com/)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Intro-red?style=for-the-badge&logo=youtube)](https://youtu.be/2SkC_KGj1nM)
 
-مستودع تعليمي مفتوح المصدر ومخصص لطلاب الهندسة والباحثين المهتمين ببناء وتصميم طائرة بدون طيار (Quadrotor) مخصصة باستخدام متحكم **Arduino** وحساس **MPU6050**. هذا المستودع يمثل الجانب التطبيقي المفتوح للدورة الشاملة.
+مستودع تعليمي مخصص لطلاب الهندسة والباحثين المهتمين ببناء وتصميم طائرة بدون طيار (Quadrotor) مخصصة باستخدام متحكم **Arduino** وحساس **MPU6050**. هذا المستودع يمثل الجانب التطبيقي الأساسي والمجاني للدورة الشاملة.
 
 ---
 
