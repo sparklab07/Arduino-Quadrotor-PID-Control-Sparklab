@@ -1,4 +1,4 @@
-# 🛸 Arduino-Quadrotor-PID-Control-Sparklab | دورة صناعة الدرون بالأردوينو من الصفر
+# 🛸 Arduino-Quadrotor-PID-Control-Sparklab | دورة صناعة الدرون بالأردوينو من الأساسيات الى الطيران الأول
 
 [![Spark Lab Academy](https://img.shields.io/badge/Spark%20Lab-Academy-orange?style=for-the-badge&logo=education)](https://academy.sparklabdz.com/)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Intro-red?style=for-the-badge&logo=youtube)](https://youtu.be/2SkC_KGj1nM)
